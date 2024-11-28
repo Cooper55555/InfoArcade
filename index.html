@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Info Arcade</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <nav id="topnav">
+        <div id="Arcade-Logo-Box1">
+        <img id="ArcadeLogo1" src="Info Arcade Logo-fotor-bg-remover-20241127194319.png">
+    </div>
+        <div id="home">
+            <button id="button-home" onclick="home()"><i class="fa-solid fa-house"></i></button>
+        </div>
+    <div class="search-box">
+        <div class="row" id="SearchBar">
+            <input type="text" id="input-box" placeholder="Search anything..." autocomplete="off">
+            <button id="checkButton"><i class="fas fa-search"></i></button>
+        </div>
+        <div class="result-box">
+        </div>
+    </div>
+</nav>
+<br>
+<div id="main-container1">
+    <br>
+    <h1 id="Title1">Welcome to&#160;<p id="Mycraft1">Info Arcade!</p></h1>
+    <br>
+    <br>
+    <br>
+    <div id="button-container2">
+        <button id="buttonmain1" onclick="performFunctionMain1()">
+            <p id="buttonmain1-text">Minecraft</p>
+            <img id="buttonmain1-image" src="https://preview.redd.it/avjal33hpqo61.png?width=512&format=png&auto=webp&s=b652d83347448df74c8ba61c17b322e686ee32a4">
+        </button>
+        <button id="buttonmain2" onclick="performFunctionMain2()">
+            <p id="buttonmain2-text">Pokemon Go</p>
+            <img id="buttonmain2-image" src="https://assets-prd.ignimgs.com/2021/12/06/pokemongo-logo-1638824992018.jpg">
+        </button>
+    </div>
+</div>
+<div id="big-container2" hidden>
+    <div id="title-container1">
+        <br>
+        <h1 id="Title3">Choose a subject:</h1>
+    </div>
+    <br>
+    <br>
+    <br>
+    <div id="button-container-pogo1">
+        <button id="buttonpogo1" onclick="performFunctionpogo1()">
+            <p id="buttonpogo1-text">Pokedex</p>
+            <img id="buttonpogo1-image" src="https://i.redd.it/tzbyg94vwqg91.png">
+        </button>
+        <button id="buttonpogo2" onclick="performFunctionpogo2()">
+            <p id="buttonpogo2-text">Next Events</p>
+            <img id="buttonpogo2-image" src="https://pokemonnewspaper.com.au/wp-content/uploads/2020/03/pokemon_newspaper_stamp-01.png">
+        </button>
+    </div>
+</div>
+<div id="button-container-pogo2" hidden>
+        <button id="buttonpogo1-1" onclick="performFunctionpogosmall1()">
+            <p id="buttonpogo1-1-text">Dual Destiny</p>
+            <img id="buttonpogo1-1-image" src="https://cdn.8thwall.com/web/accounts/icons/2tm8m5kqs679fjv7938z2cjm1up47yol1mn31xuasqm7dna7wxfahgs7-400x400">
+    </button>
+</div>
+<div id="pogonews-container" hidden>
+    <div id="pogonews-info">
+        <img id="pogonews-image" src="december info.jpg">
+    </div>
+</div>
+<div id="button-container-pogo1-1" hidden>
+    <br>
+    <br>
+    <br>
+    <h1 id="Title3">Choose a generation:</h1>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <div id="generations-container-pogo1">
+    <button id="button-pogo1-1" onclick="Kanto()">
+        <p id="button-pogo1-1-text">Kanto</p>
+        <img id="button-pogo1-1-image" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e8ddc4da-23dd-4502-b65b-378c9cfe5efa/dfg0yrp-0b11cb23-4381-4ddd-bc16-1f6544738a93.png/v1/fill/w_1280,h_1280/gold_kanto_medal_by_jormxdos_dfg0yrp-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcL2U4ZGRjNGRhLTIzZGQtNDUwMi1iNjViLTM3OGM5Y2ZlNWVmYVwvZGZnMHlycC0wYjExY2IyMy00MzgxLTRkZGQtYmMxNi0xZjY1NDQ3MzhhOTMucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.fnkksAGEhfH_koaTmGrf137Cto_kz_fXulBVvdm2RVc">
+    </button>
+    <button id="button-pogo1-2" onclick="Johto()">
+        <p id="button-pogo1-2-text">Johto</p>
+        <img id="button-pogo1-2-image" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e8ddc4da-23dd-4502-b65b-378c9cfe5efa/dfg0yt7-4371e2ce-45d8-407c-b1a6-629cab4354e7.png/v1/fill/w_1280,h_1280/gold_johto_medal_by_jormxdos_dfg0yt7-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcL2U4ZGRjNGRhLTIzZGQtNDUwMi1iNjViLTM3OGM5Y2ZlNWVmYVwvZGZnMHl0Ny00MzcxZTJjZS00NWQ4LTQwN2MtYjFhNi02MjljYWI0MzU0ZTcucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.sJBJt0Q3RF9KM7jaS8DP2qxMctMyhxVpNyk5BPN9q-g">
+    </button>
+    <button id="button-pogo1-3" onclick="Hoenn()">
+        <p id="button-pogo1-3-text">Hoenn</p>
+        <img id="button-pogo1-3-image" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e8ddc4da-23dd-4502-b65b-378c9cfe5efa/dfg0yux-aa642434-f6e4-4698-81d3-aec8ba590a38.png/v1/fill/w_1280,h_1280/gold_hoenn_medal_by_jormxdos_dfg0yux-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcL2U4ZGRjNGRhLTIzZGQtNDUwMi1iNjViLTM3OGM5Y2ZlNWVmYVwvZGZnMHl1eC1hYTY0MjQzNC1mNmU0LTQ2OTgtODFkMy1hZWM4YmE1OTBhMzgucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.udhi4L95S8ojnVYn3OWCCRtpOJBlee39r_5iEcTm_i0">
+    </button>
+    <button id="button-pogo1-4" onclick="Sinnoh()">
+        <p id="button-pogo1-4-text">Sinnoh</p>
+        <img id="button-pogo1-4-image" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e8ddc4da-23dd-4502-b65b-378c9cfe5efa/dfg0ywh-23155e51-c257-4d2e-9783-ea3bbe3631ba.png/v1/fill/w_1280,h_1280/gold_sinnoh_medal_by_jormxdos_dfg0ywh-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcL2U4ZGRjNGRhLTIzZGQtNDUwMi1iNjViLTM3OGM5Y2ZlNWVmYVwvZGZnMHl3aC0yMzE1NWU1MS1jMjU3LTRkMmUtOTc4My1lYTNiYmUzNjMxYmEucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.ZCsKyaiX3cGGdwVX0_m161FJitOHT7oH1kLJevIAeBk">
+    </button>
+    <button id="button-pogo1-5" onclick="Unova()">
+        <p id="button-pogo1-5-text">Unova</p>
+        <img id="button-pogo1-5-image" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e8ddc4da-23dd-4502-b65b-378c9cfe5efa/dfg0yy5-09131352-b743-4158-a435-b234a0694774.png/v1/fill/w_1280,h_1280/gold_unova_medal_by_jormxdos_dfg0yy5-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcL2U4ZGRjNGRhLTIzZGQtNDUwMi1iNjViLTM3OGM5Y2ZlNWVmYVwvZGZnMHl5NS0wOTEzMTM1Mi1iNzQzLTQxNTgtYTQzNS1iMjM0YTA2OTQ3NzQucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.qmHJ0LjgWvR_qZysJDhTaz7QqbHnErbZ59U01_dvI20">
+    </button>
+    <button id="button-pogo1-6" onclick="Kalos()">
+        <p id="button-pogo1-6-text">Kalos</p>
+        <img id="button-pogo1-6-image" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e8ddc4da-23dd-4502-b65b-378c9cfe5efa/dfg0yzu-d8cbaec4-6d8e-42df-834c-6eebbee725d5.png/v1/fill/w_1280,h_1280/gold_kalos_medal_by_jormxdos_dfg0yzu-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcL2U4ZGRjNGRhLTIzZGQtNDUwMi1iNjViLTM3OGM5Y2ZlNWVmYVwvZGZnMHl6dS1kOGNiYWVjNC02ZDhlLTQyZGYtODM0Yy02ZWViYmVlNzI1ZDUucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Ncqb38PnzxixvIS3mGwv2TjAoJ6y9WE6FINfGFuFtHk">
+    </button>
+    <button id="button-pogo1-7" onclick="Alola()">
+        <p id="button-pogo1-7-text">Alola</p>
+        <img id="button-pogo1-7-image" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e8ddc4da-23dd-4502-b65b-378c9cfe5efa/dfg0z0v-4e8150dd-fbf2-46b6-817d-01dc52459d62.png/v1/fill/w_1280,h_1280/gold_alola_medal_by_jormxdos_dfg0z0v-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcL2U4ZGRjNGRhLTIzZGQtNDUwMi1iNjViLTM3OGM5Y2ZlNWVmYVwvZGZnMHowdi00ZTgxNTBkZC1mYmYyLTQ2YjYtODE3ZC0wMWRjNTI0NTlkNjIucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.eqZhXp08dwYr7DJkJEQuM3bAHj6a6AYuSlmTaF3u_14">
+    </button>
+    <button id="button-pogo1-8" onclick="Galar()">
+        <p id="button-pogo1-8-text">Galar</p>
+        <img id="button-pogo1-8-image" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e8ddc4da-23dd-4502-b65b-378c9cfe5efa/dfg0z2k-5e513cf2-9483-4fb7-a20f-6fc8698e608b.png/v1/fill/w_1280,h_1280/gold_galar_medal_by_jormxdos_dfg0z2k-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcL2U4ZGRjNGRhLTIzZGQtNDUwMi1iNjViLTM3OGM5Y2ZlNWVmYVwvZGZnMHoyay01ZTUxM2NmMi05NDgzLTRmYjctYTIwZi02ZmM4Njk4ZTYwOGIucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.fKydFsqMiBYkBuYx_p1KTBc1v6lsJn6owdYxsMP2B_I">
+    </button>
+    <button id="button-pogo1-9" onclick="Hisui()">
+        <p id="button-pogo1-9-text">Hisui</p>
+        <img id="button-pogo1-9-image" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e8ddc4da-23dd-4502-b65b-378c9cfe5efa/dfg0z3x-53e9eb6f-b135-4c07-a3f5-4264210467d9.png/v1/fill/w_1280,h_1280/gold_hisui_medal_by_jormxdos_dfg0z3x-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcL2U4ZGRjNGRhLTIzZGQtNDUwMi1iNjViLTM3OGM5Y2ZlNWVmYVwvZGZnMHozeC01M2U5ZWI2Zi1iMTM1LTRjMDctYTNmNS00MjY0MjEwNDY3ZDkucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.S1AQ029A8RrrixKDe4_a5Z40HmzaU8Oi8TofIjpi81Q">
+    </button>
+    <button id="button-pogo1-10" onclick="Paldea()">
+        <p id="button-pogo1-10-text">Paldea</p>
+        <img id="button-pogo1-10-image" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e8ddc4da-23dd-4502-b65b-378c9cfe5efa/dgb0u85-cdd994bd-8f18-43c1-a645-953f05020fc0.png/v1/fill/w_1280,h_1280/gold_paldea_medal_by_jormxdos_dgb0u85-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcL2U4ZGRjNGRhLTIzZGQtNDUwMi1iNjViLTM3OGM5Y2ZlNWVmYVwvZGdiMHU4NS1jZGQ5OTRiZC04ZjE4LTQzYzEtYTY0NS05NTNmMDUwMjBmYzAucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.v35rC82Hj21LYd0Kjhoc_b2vyDU5EVkX9CJSS8ABRxM">
+    </button>
+</div>
+</div>
+<div id="button-container-pogo-kanto1-1" hidden>
+    <button id="button-pogo-kanto1-1" onclick="Bulbasaur()">
+        <p id="button-pogo-kanto1-1-text">Bulbasaur</p>
+        <img id="button-pogo-kanto1-1-image" src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/001.png">
+    </button>
+    <button id="button-pogo-kanto1-2" onclick="Ivysaur()">
+        <p id="button-pogo-kanto1-2-text">Ivysaur</p>
+        <img id="button-pogo-kanto1-2-image" src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/002.png">
+    </button>
+    <button id="button-pogo-kanto1-3" onclick="Venusaur()">
+        <p id="button-pogo-kanto1-3-text">Venusaur</p>
+        <img id="button-pogo-kanto1-3-image" src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/003.png">
+    </button>
+    <button id="button-pogo-kanto1-4" onclick="Charmander()">
+        <p id="button-pogo-kanto1-4-text">Charmander</p>
+        <img id="button-pogo-kanto1-4-image" src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/004.png">
+    </button>
+    <button id="button-pogo-kanto1-5" onclick="Charmeleon()">
+        <p id="button-pogo-kanto1-5-text">Charmeleon</p>
+        <img id="button-pogo-kanto1-5-image" src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/005.png">
+    </button>
+    <button id="button-pogo-kanto1-6" onclick="Charizard()">
+        <p id="button-pogo-kanto1-6-text">Charizard</p>
+        <img id="button-pogo-kanto1-6-image" src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/006.png">
+    </button>
+    <button id="button-pogo-kanto1-7" onclick="Squirtle()">
+        <p id="button-pogo-kanto1-7-text">Squirtle</p>
+        <img id="button-pogo-kanto1-7-image" src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/007.png">
+    </button>
+    <button id="button-pogo-kanto1-8" onclick="Wartortle()">
+        <p id="button-pogo-kanto1-8-text">Wartortle</p>
+        <img id="button-pogo-kanto1-8-image" src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/008.png">
+    </button>
+    <button id="button-pogo-kanto1-9" onclick="Blastoise()">
+        <p id="button-pogo-kanto1-9-text">Blastoise</p>
+        <img id="button-pogo-kanto1-9-image" src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/009.png">
+    </button>
+    <button id="button-pogo-kanto1-10" onclick="Caterpie()">
+        <p id="button-pogo-kanto1-10-text">Caterpie</p>
+        <img id="button-pogo-kanto1-10-image" src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/010.png">
+    </button>
+    <button id="button-pogo-kanto1-11" onclick="Metapod()">
+        <p id="button-pogo-kanto1-11-text">Metapod</p>
+        <img id="button-pogo-kanto1-11-image" src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/011.png">
+    </button>
+    <button id="button-pogo-kanto1-12" onclick="Butterfree()">
+        <p id="button-pogo-kanto1-12-text">Butterfree</p>
+        <img id="button-pogo-kanto1-12-image" src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/012.png">
+    </button>
+    <button id="button-pogo-kanto1-13" onclick="Weedle()">
+        <p id="button-pogo-kanto1-13-text">Weedle</p>
+        <img id="button-pogo-kanto1-13-image" src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/013.png">
+    </button>
+    <button id="button-pogo-kanto1-14" onclick="Kakuna()">
+        <p id="button-pogo-kanto1-14-text">Kakuna</p>
+        <img id="button-pogo-kanto1-14-image" src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/014.png">
+    </button>
+    <button id="button-pogo-kanto1-15" onclick="Beedrill()">
+        <p id="button-pogo-kanto1-15-text">Beedrill</p>
+        <img id="button-pogo-kanto1-15-image" src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/015.png">
+    </button>
+</div>
+<div id="big-container-minecraft1" hidden>
+    <br>
+    <h1 id="Title3">Choose a subject:</h1>
+    <br>
+    <br>
+    <br>
+    <div id="button-container-minecraft1">
+        <button id="buttonminecraft1" onclick="performFunctionMinecraft1()">
+            <p id="buttonminecraft1-text">Builds</p>
+            <img id="buttonminecraft1-image" src="https://m.media-amazon.com/images/I/81vKJJEaEJL._AC_UF894,1000_QL80_.jpg">
+        </button>
+    </div>
+</div>
+<div id="big-container1" hidden>
+    <div id="title-container1">
+        <br>
+        <h1 id="Title3">Choose a build type:</h1>
+        <h5 id="Title2">There is&#160;<p id="Mycraft2">1 build</p>&#160;available.</h5>
+    </div>
+    <br>
+    <br>
+    <br>
+    <div id="button-container1">
+        <button id="button1" onclick="performFunction1()">
+            <p id="button1-text">Houses</p>
+            <img id="button1-image" src="https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://fdczvxmwwjwpwbeeqcth.supabase.co/storage/v1/object/public/images/fad5b3bf-6319-4b02-9596-01ee71fb6284/7d187a96-cda5-47d6-a034-708483078bc3.png">
+        </button>
+    </div>
+</div>
+<div id="button-container1-1" hidden>
+    <button id="button1-1" onclick="House1()">
+        <p id="button1-1-text">Chinese House</p>
+        <img id="button1-1-image" src="Chinese-House-Result.png">
+    </button>
+</div>
+<br>
+<br>
+<br>
+<div id="house1-container" hidden>
+    <div id="house-modal1" hidden>
+    <h1 id="house1-title" hidden>Chinese House</h1>
+    <br>
+    <br>
+    <br>
+    <div class="slideshow-container" id="slideshow-container-id" hidden>
+        <div class="mySlides fade">
+          <div class="numbertext">End Result</div>
+          <img id="slideimage" src="Chinese-House-Result.png" style="width:100%">
+          <div class="text"></div>
+        </div>
+        <div class="mySlides fade">
+          <div class="numbertext">1 / 15</div>
+          <img id="slideimage" src="Chinese-House-Layer-1.png" style="width:100%">
+          <div class="text"></div>
+        </div>
+        <div class="mySlides fade">
+          <div class="numbertext">2 / 15</div>
+          <img id="slideimage" src="Chinese-House-Layer-2.png" style="width:100%">
+          <div class="text"></div>
+        </div>
+        <div class="mySlides fade">
+            <div class="numbertext">3 / 15</div>
+            <img id="slideimage" src="Chinese-House-Layer-3.png" style="width:100%">
+            <div class="text"></div>
+          </div>
+        <div class="mySlides fade">
+            <div class="numbertext">4 / 15</div>
+            <img id="slideimage" src="Chinese-House-Layer-4.png" style="width:100%">
+            <div class="text"></div>
+        </div>
+        <div class="mySlides fade">
+            <div class="numbertext">5 / 15</div>
+            <img id="slideimage" src="Chinese-House-Layer-5.png" style="width:100%">
+            <div class="text"></div>
+        </div>
+        <div class="mySlides fade">
+            <div class="numbertext">6 / 15</div>
+            <img id="slideimage" src="Chinese-House-Layer-6.png" style="width:100%">
+            <div class="text"></div>
+        </div>
+        <div class="mySlides fade">
+            <div class="numbertext">7 / 15</div>
+            <img id="slideimage" src="Chinese-House-Layer-7.png" style="width:100%">
+            <div class="text"></div>
+        </div>
+        <div class="mySlides fade">
+            <div class="numbertext">8 / 15</div>
+            <img id="slideimage" src="Chinese-House-Layer-8.png" style="width:100%">
+            <div class="text"></div>
+        </div>
+        <div class="mySlides fade">
+            <div class="numbertext">9 / 15</div>
+            <img id="slideimage" src="Chinese-House-Layer-9.png" style="width:100%">
+            <div class="text"></div>
+        </div>
+        <div class="mySlides fade">
+            <div class="numbertext">10 / 15</div>
+            <img id="slideimage" src="Chinese-House-Layer-10.png" style="width:100%">
+            <div class="text"></div>
+        </div>
+        <div class="mySlides fade">
+            <div class="numbertext">11 / 15</div>
+            <img id="slideimage" src="Chinese-House-Layer-11.png" style="width:100%">
+            <div class="text"></div>
+        </div>
+        <div class="mySlides fade">
+            <div class="numbertext">12 / 15</div>
+            <img id="slideimage" src="Chinese-House-Layer-12.png" style="width:100%">
+            <div class="text"></div>
+        </div>
+        <div class="mySlides fade">
+            <div class="numbertext">13 / 15</div>
+            <img id="slideimage" src="Chinese-House-Layer-13.png" style="width:100%">
+            <div class="text"></div>
+        </div>
+        <div class="mySlides fade">
+            <div class="numbertext">14 / 15</div>
+            <img id="slideimage" src="Chinese-House-Layer-14.png" style="width:100%">
+            <div class="text"></div>
+        </div>
+        <div class="mySlides fade">
+            <div class="numbertext">15 / 15</div>
+            <img id="slideimage" src="Chinese-House-Layer-15.png" style="width:100%">
+            <div class="text"></div>
+        </div>
+        <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+        <a class="next" onclick="plusSlides(1)">&#10095;</a>
+        <br>
+      <div style="text-align:center">
+        <span class="dot" onclick="currentSlide(1)"></span>
+        <span class="dot" onclick="currentSlide(2)"></span>
+        <span class="dot" onclick="currentSlide(3)"></span>
+        <span class="dot" onclick="currentSlide(4)"></span>
+        <span class="dot" onclick="currentSlide(5)"></span>
+        <span class="dot" onclick="currentSlide(6)"></span>
+        <span class="dot" onclick="currentSlide(7)"></span>
+        <span class="dot" onclick="currentSlide(8)"></span>
+        <span class="dot" onclick="currentSlide(9)"></span>
+        <span class="dot" onclick="currentSlide(10)"></span>
+        <span class="dot" onclick="currentSlide(11)"></span>
+        <span class="dot" onclick="currentSlide(12)"></span>
+        <span class="dot" onclick="currentSlide(13)"></span>
+        <span class="dot" onclick="currentSlide(14)"></span>
+        <span class="dot" onclick="currentSlide(15)"></span>
+        <span class="dot" onclick="currentSlide(16)"></span>
+      </div>
+      </div>
+      <br>
+      <br>
+      <br>
+      <h1 id="house1-title" hidden>Block List:</h1>
+      <br>
+      <br>
+      <br>
+    <div id="Chinese-House-Mats" hidden>
+    <button id="Chinese-House-Button-Mats-1"><img id="Chinese-House-Mats-1" src="https://minecraft.wiki/images/Dark_Prismarine_Slab_JE2_BE2.png?8323a">Dark Prismarine Slab: 194</button>
+    <button id="Chinese-House-Button-Mats-2"><img id="Chinese-House-Mats-2" src="https://minecraft.wiki/images/thumb/Dark_Oak_Slab_JE3_BE2.png/150px-Dark_Oak_Slab_JE3_BE2.png?15a13">Dark Oak Slab: 79</button>
+    <button id="Chinese-House-Button-Mats-3"><img id="Chinese-House-Mats-3" src="https://fr.minecraft.wiki/images/Calcite.png?c13c2">Calcite: 76</button>
+    <button id="Chinese-House-Button-Mats-4"><img id="Chinese-House-Mats-4" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRk6Zhq_yHLpMrfD4TCufk14787ZSDzjzfwvG0AOemj5POxYNUI">Diorite: 63</button>
+    <button id="Chinese-House-Button-Mats-5"><img id="Chinese-House-Mats-5" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk7DkZRldo-dswlVS-cT0N7fKj5oKKRvjq6Q&s">Dark Oak Sign: 54</button>
+    <button id="Chinese-House-Button-Mats-6"><img id="Chinese-House-Mats-6" src="https://minecraft.wiki/images/thumb/Stripped_Spruce_Wood_%28UD%29_JE1.png/150px-Stripped_Spruce_Wood_%28UD%29_JE1.png?e7eb4">Stripped Spruce Wood: 53</button>
+</div>
+</div>
+</div>
+<br>
+<br>
+<br>
+    <script src="index.js"></script>
+</body>
+</html>

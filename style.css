@@ -1,0 +1,1150 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+nav {
+    width: 100vws;
+    height: 10vh;
+    background-color: rgb(109, 224, 109);
+    padding: 2%;
+    display: flex;
+    gap: 25px;
+    border-bottom: 3px solid #333;
+    justify-content: center;
+    align-items: center;
+  }
+
+body {
+    background-color: white;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.search-box {
+    width: 600px;
+    background: #fff;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    padding: 3px 20px;
+}
+
+input {
+    flex: 1;
+    height: 50px;
+    background: transparent;
+    border: 0;
+    outline: 0;
+    font-size: 18px;
+    color: #333;
+}
+
+#button-home {
+    width: 25px;
+    color: #555;
+    font-size: 22px;
+    cursor: pointer;
+    display: flex;
+}
+
+button {
+    background: transparent;
+    border: 0;
+    outline: 0;
+}
+
+button .fas {
+    width: 25px;
+    color: #555;
+    font-size: 22px;
+    cursor: pointer;
+}
+
+::placeholder {
+    color: #555;
+}
+
+.result-box ul {
+    padding: 15px 10px;
+}
+
+.result-box ul li {
+    list-style: none;
+    border-radius: 3px;
+    padding: 15px 10px;
+    cursor: pointer;
+}
+
+.result-box ul li:hover {
+    background: #e9f3ff;
+}
+
+.result-box {
+    max-height: 80px;
+    overflow-y: scroll;
+    position: fixed;
+    background-color: #fff;
+    width: 600px;
+}
+
+#Title1 {
+    color: rgb(109, 224, 109);
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    -webkit-text-stroke: 3px #333;
+}
+
+#Title2 {
+    color: #333;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+#Title3 {
+    color: rgb(109, 224, 109);
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    -webkit-text-stroke: 2px #333;
+}
+
+#house1-title {
+    color: rgb(109, 224, 109);
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    -webkit-text-stroke: 2px #333;
+}
+
+#Mycraft2 {
+    color: rgb(109, 224, 109);
+    -webkit-text-stroke: 1px #333;
+    display: flex;
+    justify-content: center;
+}
+
+#button-container1 {
+    justify-content: center;
+    flex-wrap: wrap;
+    display: flex;
+    gap: 25px;
+}
+
+#button-container2 {
+    justify-content: center;
+    flex-wrap: wrap;
+    display: flex;
+    gap: 25px;
+}
+
+#button-container-pogo1 {
+    justify-content: center;
+    flex-wrap: wrap;
+    display: flex;
+    gap: 25px;
+}
+
+#button-container-pogo2 {
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 25px;
+}
+
+#pogonews-container {
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#pogonews-info {
+    justify-content: center;
+    flex-wrap: wrap;
+    display: flex;
+}
+
+#pogonews-image {
+    width: 88vw;
+    border: 5px solid rgb(109, 224, 109);
+    display: flex;
+}
+
+#button-container-minecraft1 {
+    justify-content: center;
+    flex-wrap: wrap;
+    display: flex;
+    gap: 25px;
+}
+
+#generations-container-pogo1 {
+    justify-content: center;
+    flex-wrap: wrap;
+    display: flex;
+    gap: 25px;
+}
+
+#house1-container {
+    justify-content: center;
+    flex-wrap: wrap;
+    display: flex;
+}
+
+#button1 {
+    display: absolute;
+    font-size: 40px;
+    width: 350px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button1:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button1-image {
+    width: 300px;
+    border: 5px solid black;
+    border-radius: 25px;
+}
+
+#buttonminecraft1 {
+    display: absolute;
+    font-size: 40px;
+    width: 350px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#buttonminecraft1:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#buttonminecraft1-image {
+    width: 300px;
+    border: 5px solid black;
+    border-radius: 25px;
+}
+
+#buttonpogo1 {
+    display: absolute;
+    font-size: 40px;
+    width: 350px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#buttonpogo1:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#buttonpogo1-image {
+    width: 300px;
+    border: 5px solid black;
+    border-radius: 25px;
+}
+
+#buttonpogo2 {
+    display: absolute;
+    font-size: 40px;
+    width: 350px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#buttonpogo2:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#buttonpogo2-image {
+    width: 300px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#buttonpogo1-1 {
+    display: absolute;
+    font-size: 40px;
+    width: 350px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#buttonpogo1-1:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#buttonpogo1-1-image {
+    width: 300px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#buttonmain1 {
+    display: absolute;
+    font-size: 40px;
+    width: 350px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#buttonmain1:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#buttonmain1-image {
+    width: 300px;
+    border: 5px solid black;
+    border-radius: 25px;
+}
+
+#buttonmain2 {
+    display: absolute;
+    font-size: 40px;
+    width: 350px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#buttonmain2:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#buttonmain2-image {
+    width: 300px;
+    border: 5px solid black;
+    border-radius: 25px;
+}
+
+#house1-title {
+    color: rgb(109, 224, 109);
+    font-size: 120px;
+    display: flex;
+    justify-content: center;
+    -webkit-text-stroke: 5px #333;
+}
+
+#Chinese-House-Mats {
+    border: 5px solid #333;
+    height: 1000px;
+    width: 88vw;
+}
+
+#Chinese-House-Mats-1 {
+    background-color: white;
+    margin-left: 50px;
+    width: 75px;
+    float: left;
+    border: 5px solid #333;
+    border-radius: 15px;
+}
+
+#Chinese-House-Button-Mats-1 {
+    background-color: rgb(109, 224, 109);
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    font-size: 65px;
+    border-bottom: 5px solid #333;
+}
+
+#Chinese-House-Mats-2 {
+    background-color: white;
+    margin-left: 50px;
+    width: 75px;
+    float: left;
+    border: 5px solid #333;
+    border-radius: 15px;
+}
+
+#Chinese-House-Button-Mats-2 {
+    background-color: rgb(109, 224, 109);
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    font-size: 65px;
+    border-bottom: 5px solid #333;
+}
+
+#Chinese-House-Mats-3 {
+    background-color: white;
+    margin-left: 50px;
+    width: 75px;
+    float: left;
+    border: 5px solid #333;
+    border-radius: 15px;
+}
+
+#Chinese-House-Button-Mats-3 {
+    background-color: rgb(109, 224, 109);
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    font-size: 65px;
+    border-bottom: 5px solid #333;
+}
+
+#Chinese-House-Mats-4 {
+    background-color: white;
+    margin-left: 50px;
+    width: 75px;
+    float: left;
+    border: 5px solid #333;
+    border-radius: 15px;
+}
+
+#Chinese-House-Button-Mats-4 {
+    background-color: rgb(109, 224, 109);
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    font-size: 65px;
+    border-bottom: 5px solid #333;
+}
+
+#Chinese-House-Mats-5 {
+    background-color: white;
+    margin-left: 50px;
+    width: 75px;
+    float: left;
+    border: 5px solid #333;
+    border-radius: 15px;
+}
+
+#Chinese-House-Button-Mats-5 {
+    background-color: rgb(109, 224, 109);
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    font-size: 65px;
+    border-bottom: 5px solid #333;
+}
+
+#Chinese-House-Mats-6 {
+    background-color: white;
+    margin-left: 50px;
+    width: 75px;
+    float: left;
+    border: 5px solid #333;
+    border-radius: 15px;
+}
+
+#Chinese-House-Button-Mats-6 {
+    background-color: rgb(109, 224, 109);
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    font-size: 65px;
+    border-bottom: 5px solid #333;
+}
+
+#button-container1-1 {
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#button1-1 {
+    display: absolute;
+    font-size: 40px;
+    width: 350px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button1-1:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button1-1-image {
+    width: 300px;
+    border: 5px solid black;
+    border-radius: 25px;
+}
+
+#button-container-pogo1-1 {
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 25px;
+}
+
+#button-pogo1-1 {
+    display: absolute;
+    font-size: 40px;
+    width: 350px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo1-1:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo1-1-image {
+    width: 300px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo1-2 {
+    display: absolute;
+    font-size: 40px;
+    width: 350px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo1-2:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo1-2-image {
+    width: 300px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo1-3 {
+    display: absolute;
+    font-size: 40px;
+    width: 350px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo1-3:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo1-3-image {
+    width: 300px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo1-4 {
+    display: absolute;
+    font-size: 40px;
+    width: 350px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo1-4:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo1-4-image {
+    width: 300px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo1-5 {
+    display: absolute;
+    font-size: 40px;
+    width: 350px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo1-5:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo1-5-image {
+    width: 300px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo1-6 {
+    display: absolute;
+    font-size: 40px;
+    width: 350px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo1-6:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo1-6-image {
+    width: 300px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo1-7 {
+    display: absolute;
+    font-size: 40px;
+    width: 350px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo1-7:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo1-7-image {
+    width: 300px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo1-8 {
+    display: absolute;
+    font-size: 40px;
+    width: 350px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo1-8:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo1-8-image {
+    width: 300px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo1-9 {
+    display: absolute;
+    font-size: 40px;
+    width: 350px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo1-9:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo1-9-image {
+    width: 300px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo1-10 {
+    display: absolute;
+    font-size: 40px;
+    width: 350px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo1-10:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo1-10-image {
+    width: 300px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-container-pogo-kanto1-1 {
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+#button-pogo-kanto1-1 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-1:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-1-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-2 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-2:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-2-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-3 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-3:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-3-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-4 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-4:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-4-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-5 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-5:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-5-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-6 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-6:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-6-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-7 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-7:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-7-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-8 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-8:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-8-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-9 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-9:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-9-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-10 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-10:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-10-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-11 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-11:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-11-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-12 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-12:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-12-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-13 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-13:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-13-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-14 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-14:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-14-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-15 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-15:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-15-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+* {box-sizing:border-box}
+
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+.mySlides {
+  display: none;
+  border: 5px solid rgb(109, 224, 109);
+}
+
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+.prev:hover, .next:hover {
+  background-color: #333;
+}
+
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+  background-color: #333;
+  border-top: 5px solid rgb(109, 224, 109);
+}
+
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+#slideimage {
+    display: flex;
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+#ArcadeLogo1 {
+    width: 35px;
+}
+
+#Arcade-Logo-Box1 {
+    left: 25px;
+    position: absolute;
+}
