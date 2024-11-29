@@ -4382,6 +4382,7 @@ button .fas {
     position: absolute;
     width: 44%;
     margin-left: 25px;
+    height: 1100px;
 }
 
 #Bulbasaursmall-container {
@@ -4433,8 +4434,15 @@ button .fas {
     width: 150px;
 }
 
+#VenusaurMegaImageMain1 {
+    display: block;
+    text-align: center;
+    border: 5px solid #333;
+    background-image: url("https://as1.ftcdn.net/v2/jpg/05/33/54/20/1000_F_533542081_fAYCZ1LHvGxx772fXQZnuBZ7h9eA0kHG.jpg");
+}
+
 #VenusaurMegaImage1 {
-    width: 100px;
+    width: 150px;
 }
 
 #arrowBulbasaur1 {
@@ -4442,6 +4450,10 @@ button .fas {
 }
 
 #arrowBulbasaur2 {
+    font-size: 50px;
+}
+
+#arrowBulbasaur3 {
     font-size: 50px;
 }
 
@@ -4469,6 +4481,7 @@ button .fas {
     position: absolute;
     margin-right: 25px;
     width: 44%;
+    height: 1100px;
 }
 
 #Bulbasaursmall-container1 {
@@ -4501,6 +4514,7 @@ button .fas {
 #bulbasaurdivs {
     display: flex;
     justify-content: space-around;
+    height: 1100px;
 }
 
 #WildImage {
