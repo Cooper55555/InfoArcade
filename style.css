@@ -145,6 +145,13 @@ button .fas {
     gap: 25px;
 }
 
+#kantopokemon {
+    justify-content: center;
+    flex-wrap: wrap;
+    display: flex;
+    gap: 15px;
+}
+
 #button-container-pogo1 {
     justify-content: center;
     flex-wrap: wrap;
@@ -1263,6 +1270,2998 @@ button .fas {
 }
 
 #button-pogo-kanto1-15-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-16 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-16:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-16-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-17 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-17:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-17-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-18 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-18:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-18-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-19 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-19:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-19-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-20 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-20:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-20-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-21 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-21:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-21-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-22 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-22:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-22-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-23 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-23:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-23-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-24 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-24:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-24-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-25 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-25:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-25-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-26 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-26:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-26-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-27 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-27:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-27-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-28 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-28:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-28-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-29 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-29:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-29-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-30 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-30:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-30-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-31 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-31:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-31-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-32 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-32:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-32-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-33 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-33:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-33-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-34 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-34:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-34-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-35 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-35:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-35-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-36 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-36:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-36-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-37 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-37:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-37-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-38 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-38:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-38-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-39 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-39:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-39-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-40 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-40:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-40-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-41 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-41:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-41-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-42 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-42:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-42-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-43 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-43:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-43-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-44 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-44:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-44-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-45 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-45:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-45-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-46 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-46:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-46-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-47 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-47:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-47-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-48 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-48:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-48-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-49 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-49:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-49-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-50 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-50:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-50-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-51 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-51:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-51-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-52 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-52:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-52-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-53 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-53:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-53-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-54 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-54:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-54-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-55 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-55:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-55-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-56 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-56:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-56-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-57 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-57:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-57-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-58 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-58:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-58-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-59 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-59:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-59-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-60 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-60:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-60-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-61 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-61:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-61-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-62 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-62:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-62-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-63 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-63:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-63-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-64 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-64:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-64-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-65 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-65:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-65-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-66 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-66:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-66-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-67 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-67:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-67-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-68 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-68:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-68-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-69 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-69:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-69-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-70 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-70:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-70-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-71 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-71:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-71-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-72 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-72:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-72-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-73 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-73:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-73-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-74 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-74:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-74-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-75 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-75:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-75-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-76 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-76:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-76-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-77 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-77:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-77-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-78 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-78:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-78-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-79 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-79:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-79-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-80 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-80:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-80-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-81 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-81:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-81-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-82 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-82:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-82-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-83 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-83:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-83-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-84 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-84:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-84-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-85 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-85:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-85-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-86 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-86:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-86-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-87 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-87:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-87-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-88 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-88:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-88-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-89 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-89:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-89-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-90 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-90:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-90-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-91 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-91:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-91-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-92 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-92:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-92-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-93 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-93:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-93-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-94 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-94:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-94-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-95 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-95:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-95-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-96 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-96:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-96-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-97 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-97:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-97-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-98 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-98:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-98-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-99 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-99:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-99-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-100 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-100:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-100-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-101 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-101:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-101-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-102 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-102:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-102-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-103 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-103:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-103-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-104 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-104:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-104-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-105 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-105:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-105-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-106 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-106:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-106-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-107 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-107:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-107-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-108 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-108:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-108-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-109 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-109:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-109-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-110 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-110:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-110-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-111 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-111:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-111-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-112 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-112:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-112-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-113 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-113:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-113-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-114 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-114:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-114-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-115 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-115:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-115-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-116 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-116:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-116-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-117 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-117:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-117-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-118 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-118:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-118-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-119 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-119:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-119-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-120 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-120:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-120-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-121 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-121:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-121-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-122 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-122:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-122-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-123 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-123:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-123-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-124 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-124:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-124-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-125 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-125:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-125-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-126 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-126:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-126-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-127 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-127:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-127-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-128 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-128:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-128-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-129 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-129:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-129-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-130 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-130:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-130-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-131 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-131:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-131-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-132 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-132:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-132-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-133 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-133:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-133-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-134 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-134:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-134-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-135 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-135:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-135-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-136 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-136:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-136-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-137 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-137:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-137-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-138 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-138:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-138-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-139 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-139:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-139-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-140 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-140:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-140-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-141 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-141:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-141-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-142 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-142:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-142-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-143 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-143:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-143-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-144 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-144:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-144-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-145 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-145:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-145-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-146 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-146:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-146-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-147 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-147:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-147-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-148 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-148:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-148-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-149 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-149:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-149-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-150 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-150:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-150-image {
+    width: 125px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+#button-pogo-kanto1-151 {
+    display: absolute;
+    font-size: 20px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgb(109, 224, 109);
+}
+
+#button-pogo-kanto1-151:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#button-pogo-kanto1-151-image {
     width: 125px;
     border: 5px solid black;
     border-radius: 25px;
