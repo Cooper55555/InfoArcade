@@ -1,6 +1,7 @@
 let availableKeywords = [
     'Minecraft: Chinese House',
     'Pokemon Go: Dual Destiny',
+    'Pokemon Go: Bulbasaur',
 ];
 
 const resultsBox = document.querySelector(".result-box");
@@ -50,6 +51,10 @@ button.addEventListener('click', function() {
     if (input === "Pokemon Go: Dual Destiny") {
         performFunctionpogosmall1();
     }
+
+    if (input === "Pokemon Go: Bulbasaur") {
+        Bulbasaur();
+    }
 });
 
 function home() {
@@ -67,6 +72,7 @@ function home() {
     document.getElementById("big-container-minecraft1").style.display = "none";
     document.getElementById("pogonews-container").style.display = "none";
     document.getElementById("button-container-pogo2").style.display = "none";
+    document.getElementById("Bulbasaurbig-container").style.display = "none";
 }
 
 function performFunctionMain1() {
@@ -165,6 +171,30 @@ function House1() {
     document.getElementById("button-container-pogo2").style.display = "none";
     document.getElementById("main-container1").style.display = "none";
     document.getElementById("button-container2").style.display = "none";
+    document.getElementById("Bulbasaurbig-container").style.display = "none";
+}
+
+function Bulbasaur() {
+    document.getElementById("Bulbasaurbig-container").style.display = "block";
+    document.getElementById("Bulbasaursmall-container1").style.display = "flex";
+    document.getElementById("button-container-pogo-kanto1-1").style.display = "none";
+    document.getElementById("pogonews-container").style.display = "none";
+    document.getElementById("button-container1").style.display = "none";
+    document.getElementById("big-container2").style.display = "none";
+    document.getElementById("button-container-pogo1").style.display = "none";
+    document.getElementById("button-container-pogo1-1").style.display = "none";
+    document.getElementById("button-container-pogo-kanto1-1").style.display = "none";
+    document.getElementById("button-container-minecraft1").style.display = "none";
+    document.getElementById("big-container-minecraft1").style.display = "none";
+    document.getElementById("button-container-pogo2").style.display = "none";
+    document.getElementById("main-container1").style.display = "none";
+    document.getElementById("button-container2").style.display = "none";
+    document.getElementById("big-container1").style.display = "none";
+    document.getElementById("house1-container").style.display = "none";
+    document.getElementById("button-container1-1").style.display = "none";
+    document.getElementById("house-modal1").style.display = "none";
+    document.getElementById("Chinese-House-Mats").style.display = "none";
+    document.getElementById("slideshow-container-id").style.display = "none";
 }
 
 function performFunction2() {

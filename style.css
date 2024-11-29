@@ -4362,3 +4362,154 @@ button .fas {
     left: 25px;
     position: absolute;
 }
+
+#BulbasaurEvolutionsTitle {
+    color: #333;
+    border-bottom: 5px solid #333;
+    background-color: rgb(109, 224, 109);
+}
+
+#BulbasaurTitle2 {
+    font-size: 45px;
+    text-align: center;
+}
+
+#BulbasaurEvolutions {
+    color: #333;
+    font-size: 15px;
+    border: 5px solid #333;
+    flex-wrap: wrap;
+    position: absolute;
+    width: 44%;
+    margin-left: 25px;
+}
+
+#Bulbasaursmall-container {
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    width: 48%;
+}
+
+#BulbasaurText {
+    text-align: center;
+    justify-content: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+#BulbasaurImageMain1 {
+    display: block;
+    text-align: center;
+    border: 5px solid #333;
+    background-image: url("https://as1.ftcdn.net/v2/jpg/05/33/54/20/1000_F_533542081_fAYCZ1LHvGxx772fXQZnuBZ7h9eA0kHG.jpg");
+}
+
+#BulbasaurImage1 {
+    width: 150px;
+}
+
+#IvysaurImageMain1 {
+    display: block;
+    text-align: center;
+    border: 5px solid #333;
+    background-image: url("https://as1.ftcdn.net/v2/jpg/05/33/54/20/1000_F_533542081_fAYCZ1LHvGxx772fXQZnuBZ7h9eA0kHG.jpg");
+}
+
+#IvysaurImage1 {
+    width: 150px;
+}
+
+#VenusaurImageMain1 {
+    display: block;
+    text-align: center;
+    border: 5px solid #333;
+    background-image: url("https://as1.ftcdn.net/v2/jpg/05/33/54/20/1000_F_533542081_fAYCZ1LHvGxx772fXQZnuBZ7h9eA0kHG.jpg");
+}
+
+#VenusaurImage1 {
+    width: 150px;
+}
+
+#VenusaurMegaImage1 {
+    width: 100px;
+}
+
+#arrowBulbasaur1 {
+    font-size: 50px;
+}
+
+#arrowBulbasaur2 {
+    font-size: 50px;
+}
+
+#bulbtext1 {
+    background-color: #333;
+    color: white;
+}
+
+#BulbasaurEvolutionsTitle1 {
+    color: #333;
+    border-bottom: 5px solid #333;
+    background-color: rgb(109, 224, 109);
+}
+
+#BulbasaurTitle2-1 {
+    font-size: 45px;
+    text-align: center;
+}
+
+#BulbasaurEvolutions1 {
+    color: #333;
+    font-size: 15px;
+    border: 5px solid #333;
+    flex-wrap: wrap;
+    position: absolute;
+    margin-right: 25px;
+    width: 44%;
+}
+
+#Bulbasaursmall-container1 {
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    width: 48%;
+}
+
+#BulbasaurText1 {
+    text-align: center;
+    justify-content: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+#BulbasaurMaxCPText {
+    text-align: center;
+    justify-content: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-size: 30px;
+    line-height: 80px;
+}
+
+#bulbasaurdivs {
+    display: flex;
+    justify-content: space-around;
+}
+
+#WildImage {
+    width: 100px;
+    height: 100px;
+}
+
+#maxCPbulbasaurdiv {
+    display: flex;
+    text-align: left;
+    justify-content: space-between;
+}
