@@ -73,6 +73,7 @@ function home() {
     document.getElementById("pogonews-container").style.display = "none";
     document.getElementById("button-container-pogo2").style.display = "none";
     document.getElementById("Bulbasaurbig-container").style.display = "none";
+    document.getElementById("bracket1").style.display = "none";
 }
 
 function performFunctionMain1() {
@@ -201,18 +202,21 @@ function BulbasaurDynamaxVersion() {
     document.getElementById("bulbasaurdivs").style.display = "none";
     document.getElementById("bulbasaurdivs1").style.display = "flex";
     document.getElementById("bulbasaurdivs2").style.display = "none";
+    document.getElementById("bulbasaurdivsAttack").style.display = "none";
 }
 
 function BulbasaurNormalVersion() {
     document.getElementById("bulbasaurdivs").style.display = "flex";
     document.getElementById("bulbasaurdivs1").style.display = "none";
     document.getElementById("bulbasaurdivs2").style.display = "none";
+    document.getElementById("bulbasaurdivsAttack").style.display = "flex";
 }
 
 function BulbasaurShadowVersion() {
     document.getElementById("bulbasaurdivs").style.display = "none";
     document.getElementById("bulbasaurdivs1").style.display = "none";
     document.getElementById("bulbasaurdivs2").style.display = "flex";
+    document.getElementById("bulbasaurdivsAttack").style.display = "none";
 }
 
 function performFunction2() {
