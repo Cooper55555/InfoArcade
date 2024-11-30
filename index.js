@@ -197,6 +197,24 @@ function Bulbasaur() {
     document.getElementById("slideshow-container-id").style.display = "none";
 }
 
+function BulbasaurDynamaxVersion() {
+    document.getElementById("bulbasaurdivs").style.display = "none";
+    document.getElementById("bulbasaurdivs1").style.display = "flex";
+    document.getElementById("bulbasaurdivs2").style.display = "none";
+}
+
+function BulbasaurNormalVersion() {
+    document.getElementById("bulbasaurdivs").style.display = "flex";
+    document.getElementById("bulbasaurdivs1").style.display = "none";
+    document.getElementById("bulbasaurdivs2").style.display = "none";
+}
+
+function BulbasaurShadowVersion() {
+    document.getElementById("bulbasaurdivs").style.display = "none";
+    document.getElementById("bulbasaurdivs1").style.display = "none";
+    document.getElementById("bulbasaurdivs2").style.display = "flex";
+}
+
 function performFunction2() {
     window.open('https://www.youtube.com/embed/JNJJ3jloWUY');
 }

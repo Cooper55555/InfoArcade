@@ -4484,6 +4484,50 @@ button .fas {
     height: 1100px;
 }
 
+#BulbasaurEvolutions1-dynamax {
+    color: #333;
+    font-size: 15px;
+    border: 5px solid #333;
+    flex-wrap: wrap;
+    position: absolute;
+    margin-right: 25px;
+    width: 44%;
+    height: 315px;
+}
+
+#BulbasaurEvolutions-dynamax {
+    color: #333;
+    font-size: 15px;
+    border: 5px solid #333;
+    flex-wrap: wrap;
+    position: absolute;
+    margin-left: 25px;
+    width: 44%;
+    height: 315px;
+}
+
+#BulbasaurEvolutions1-shadow {
+    color: #333;
+    font-size: 15px;
+    border: 5px solid #333;
+    flex-wrap: wrap;
+    position: absolute;
+    margin-right: 25px;
+    width: 44%;
+    height: 315px;
+}
+
+#BulbasaurEvolutions-shadow {
+    color: #333;
+    font-size: 15px;
+    border: 5px solid #333;
+    flex-wrap: wrap;
+    position: absolute;
+    margin-left: 25px;
+    width: 44%;
+    height: 315px;
+}
+
 #Bulbasaursmall-container1 {
     flex-wrap: wrap;
     display: flex;
@@ -4517,6 +4561,16 @@ button .fas {
     height: 1100px;
 }
 
+#bulbasaurdivs1 {
+    justify-content: space-around;
+    height: 315px;
+}
+
+#bulbasaurdivs2 {
+    justify-content: space-around;
+    height: 315px;
+}
+
 #WildImage {
     width: 100px;
     height: 100px;
@@ -4526,4 +4580,66 @@ button .fas {
     display: flex;
     text-align: left;
     justify-content: space-between;
+}
+
+#bulbasaurdynamax-navigation-box {
+    display: flex;
+    justify-content: space-around;
+}
+
+#nav-bulb-normal {
+    font-size: 50px;
+    border-bottom: 5px solid #333;
+    border-right: 5px solid white;
+    border-left: 5px solid white;
+    border-top: 5px solid white;
+}
+
+#nav-bulb-normal:hover {
+    cursor: pointer;
+    background-color: #333;
+    color: white;
+    border-bottom: 5px solid #333;
+    border-right: 5px solid #333;
+    border-left: 5px solid #333;
+    border-top: 5px solid #333;
+    border-radius: 5px;
+}
+
+#nav-bulb-dynamax {
+    font-size: 50px;
+    border-bottom: 5px solid #333;
+    border-right: 5px solid white;
+    border-left: 5px solid white;
+    border-top: 5px solid white;
+}
+
+#nav-bulb-dynamax:hover {
+    cursor: pointer;
+    background-color: #333;
+    color: white;
+    border-bottom: 5px solid #333;
+    border-right: 5px solid #333;
+    border-left: 5px solid #333;
+    border-top: 5px solid #333;
+    border-radius: 5px;
+}
+
+#nav-bulb-shadow {
+    font-size: 50px;
+    border-bottom: 5px solid #333;
+    border-right: 5px solid white;
+    border-left: 5px solid white;
+    border-top: 5px solid white;
+}
+
+#nav-bulb-shadow:hover {
+    cursor: pointer;
+    background-color: #333;
+    color: white;
+    border-bottom: 5px solid #333;
+    border-right: 5px solid #333;
+    border-left: 5px solid #333;
+    border-top: 5px solid #333;
+    border-radius: 5px;
 }
