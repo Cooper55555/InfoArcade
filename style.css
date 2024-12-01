@@ -4445,6 +4445,36 @@ button .fas {
     margin-top: 45px;
 }
 
+#BulbasaurEvolutionsAttack3 {
+    color: #333;
+    font-size: 15px;
+    border: 5px solid #333;
+    width: 92.5%;
+    height: 450px;
+    position: absolute;
+    margin-top: 45px;
+}
+
+#BulbasaurEvolutionsAttackDynamax3 {
+    color: #333;
+    font-size: 15px;
+    border: 5px solid #333;
+    width: 92.5%;
+    height: 450px;
+    position: absolute;
+    margin-top: 45px;
+}
+
+#BulbasaurEvolutionsAttackShadow3 {
+    color: #333;
+    font-size: 15px;
+    border: 5px solid #333;
+    width: 92.5%;
+    height: 450px;
+    position: absolute;
+    margin-top: 45px;
+}
+
 #Bulbasaursmall-container {
     flex-wrap: wrap;
     display: flex;
@@ -4555,6 +4585,17 @@ button .fas {
     height: 315px;
 }
 
+#BulbasaurEvolutions1-dynamax3 {
+    color: #333;
+    font-size: 15px;
+    border: 5px solid #333;
+    flex-wrap: wrap;
+    position: absolute;
+    margin-right: 25px;
+    width: 44%;
+    height: 585px;
+}
+
 #BulbasaurEvolutions-dynamax {
     color: #333;
     font-size: 15px;
@@ -4564,6 +4605,17 @@ button .fas {
     margin-left: 25px;
     width: 44%;
     height: 315px;
+}
+
+#BulbasaurEvolutions-dynamax3 {
+    color: #333;
+    font-size: 15px;
+    border: 5px solid #333;
+    flex-wrap: wrap;
+    position: absolute;
+    margin-left: 25px;
+    width: 44%;
+    height: 585px;
 }
 
 #BulbasaurEvolutions1-shadow {
@@ -4613,6 +4665,17 @@ button .fas {
     margin-right: 25px;
     font-size: 30px;
     line-height: 80px;
+}
+
+#BulbasaurMaxCPText3 {
+    text-align: center;
+    justify-content: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-size: 30px;
+    line-height: 50px;
 }
 
 #Bulbweaknesstext {
@@ -4671,6 +4734,22 @@ button .fas {
 }
 
 #bulbasaurdivs2-2 {
+    justify-content: space-around;
+    height: 315px;
+}
+
+#bulbasaurdivs-3 {
+    display: flex;
+    justify-content: space-around;
+    height: 1100px;
+}
+
+#bulbasaurdivs1-3 {
+    justify-content: space-around;
+    height: 585px;
+}
+
+#bulbasaurdivs2-3 {
     justify-content: space-around;
     height: 315px;
 }
