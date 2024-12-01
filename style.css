@@ -4389,9 +4389,60 @@ button .fas {
     color: #333;
     font-size: 15px;
     border: 5px solid #333;
-    position: absolute;
     width: 92.5%;
     height: 450px;
+    position: absolute;
+    margin-top: 45px;
+}
+
+#BulbasaurEvolutionsAttackDynamax {
+    color: #333;
+    font-size: 15px;
+    border: 5px solid #333;
+    width: 92.5%;
+    height: 450px;
+    position: absolute;
+    margin-top: 45px;
+}
+
+#BulbasaurEvolutionsAttackShadow {
+    color: #333;
+    font-size: 15px;
+    border: 5px solid #333;
+    width: 92.5%;
+    height: 450px;
+    position: absolute;
+    margin-top: 45px;
+}
+
+#BulbasaurEvolutionsAttack2 {
+    color: #333;
+    font-size: 15px;
+    border: 5px solid #333;
+    width: 92.5%;
+    height: 450px;
+    position: absolute;
+    margin-top: 45px;
+}
+
+#BulbasaurEvolutionsAttackDynamax2 {
+    color: #333;
+    font-size: 15px;
+    border: 5px solid #333;
+    width: 92.5%;
+    height: 450px;
+    position: absolute;
+    margin-top: 45px;
+}
+
+#BulbasaurEvolutionsAttackShadow2 {
+    color: #333;
+    font-size: 15px;
+    border: 5px solid #333;
+    width: 92.5%;
+    height: 450px;
+    position: absolute;
+    margin-top: 45px;
 }
 
 #Bulbasaursmall-container {
@@ -4520,10 +4571,10 @@ button .fas {
     font-size: 15px;
     border: 5px solid #333;
     flex-wrap: wrap;
-    position: absolute;
     margin-right: 25px;
     width: 44%;
     height: 315px;
+    position: absolute;
 }
 
 #BulbasaurEvolutions-shadow {
@@ -4531,10 +4582,10 @@ button .fas {
     font-size: 15px;
     border: 5px solid #333;
     flex-wrap: wrap;
-    position: absolute;
     margin-left: 25px;
     width: 44%;
     height: 315px;
+    position: absolute;
 }
 
 #Bulbasaursmall-container1 {
@@ -4608,11 +4659,38 @@ button .fas {
     height: 315px;
 }
 
+#bulbasaurdivs-2 {
+    display: flex;
+    justify-content: space-around;
+    height: 1100px;
+}
+
+#bulbasaurdivs1-2 {
+    justify-content: space-around;
+    height: 315px;
+}
+
+#bulbasaurdivs2-2 {
+    justify-content: space-around;
+    height: 315px;
+}
+
 #bulbasaurdivsAttack {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    margin-top: 50px;
+}
+
+#bulbasaurdivsAttackDynamax {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+#bulbasaurdivsAttackShadow {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
 }
 
 #WildImage {
